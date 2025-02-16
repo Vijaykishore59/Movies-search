@@ -25,4 +25,4 @@ The Movie Search App is a web application that allows users to discover and expl
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Vijaykishore59/Movies-search.git
-   cd mMovies-search
+   cd Movies-search
