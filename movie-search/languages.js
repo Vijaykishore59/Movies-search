@@ -1,4 +1,4 @@
-const OMDB_API_KEY = '46795d9f'; // Replace with your OMDb API key
+const OMDB_API_KEY = ''; // Replace with your OMDb API key
 
 function fetchLanguages() {
     const languages = [
